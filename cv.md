@@ -63,3 +63,19 @@ Stack: **PHP-5/7(Native, Laravel), MySQL, JavaScript(JQuery), HTML/CSS(native, b
 
 *2000-2018* - **Technologist, foreman, engineer** at industrial enterprises in the main specialty.
 ***
+
+## Education
+ * 2006-2009 - **Sumy State University** - Master of Applied Materials Science.
+ * 1996-2000 - **Sumy Engineering College** - Technologist of chemical and petroleum engineering
+***
+## Languages
+* **Russian**: &nbsp; &nbsp; &nbsp; native
+* **Ukrainian**:&nbsp; &nbsp;native
+* **English**: &nbsp; &nbsp; &nbsp; &nbsp; A2
+***
+
+## Courses and certificates
+*2016.12-2017.10* **[Mind.K](https://www.mindk.com) – Modern Web Development** (offline)
+- Development my own MVC framework by native PHP;
+- Development of an online store by my own framework.
+- [Certificate](https://www.mindk.com/certificates/5970abf2c645c77074255422/)
