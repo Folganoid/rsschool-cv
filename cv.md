@@ -22,7 +22,7 @@
 
 ## Skills:
 
-| <!-- -->    | <div style="width:500px"></div> |
+| <!-- -->    | <!-- --> |
 |-------------|-------------|
 | PHP (Symfony, Laravel)         | ★★★★★         |
 | GoLang                         | ★★★★☆         |
