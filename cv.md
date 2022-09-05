@@ -67,9 +67,9 @@ Stack: **PHP-5/7(Native, Laravel), MySQL, JavaScript(JQuery), HTML/CSS(native, b
  * 1996-2000 - **Sumy Engineering College** - Technologist of chemical and petroleum engineering
 
 ## Languages
-* **Russian**: &nbsp; &nbsp; &nbsp; native
-* **Ukrainian**:&nbsp; &nbsp;native
-* **English**: &nbsp; &nbsp; &nbsp; &nbsp; A2
+* **Russian**: native
+* **Ukrainian**: native
+* **English**: A2
 
 ## Courses and certificates
 *2016.12-2017.10* **[Mind.K](https://www.mindk.com) – Modern Web Development** (offline)
