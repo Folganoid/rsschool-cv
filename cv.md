@@ -4,7 +4,6 @@
   * **Age:** 41 (08.1981)
   * **Education:** Higher
   * **Location:** Sumy, Ukraine
-***
 
 ## Contacts:
 * tel: +38 050 307-08-33
