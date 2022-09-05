@@ -1,0 +1,13 @@
+:root {
+  --main-color: #179ac1;
+}
+
+h1 {
+	font-size: 36pt;
+	color: var(--main-color);
+}
+
+h2 {
+	font-size: 22pt;
+	color: var(--main-color);
+}
