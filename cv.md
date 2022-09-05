@@ -4,7 +4,7 @@
   * **Age:** 41 (08.1981)
   * **Education:** Higher
   * **Location:** Sumy, Ukraine
-*********
+***
 
 ## Contacts:
 * tel: +38 050 307-08-33
@@ -14,30 +14,28 @@
 * [linkedin.com](https://www.linkedin.com/in/andrey-golubkov/)
 * [gitHub.com](https://github.com/Folganoid)
 * [codewars.com](https://www.codewars.com/users/Folganoid)
-***
 
 ## About myself
 &nbsp; &nbsp; From 2016, as a freelancer, I was engaged in the development of sites, web applications, REST-API, layout, support and administration.\
 &nbsp; &nbsp; From January 2018 to July 2022 held the positions of a full-stack and a backend developer at E-Delux GmbH with the main focus: online trading. In particular, the development of functionality for supporting, processing, automating trade and logistics processes. Ensuring the interaction of ERP- and CMS-systems with  the most popular marketplaces in Europe. Working with clients, collection, processing and data synchronization, statistics, reporting, etc.\
 &nbsp; &nbsp; With the EPAM course, I want to remember and pull up the front-end and become competitive for the full stack position.
 
-***
 ## Skills:
 
-- PHP (Symfony, Laravel)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;★★★★★
-- GoLang &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;★★★★☆
-- JavaScript (JQuery) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;★★★☆☆
-- SQL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;★★★★☆
-- HTTP (REST, Nginx, Apache) ★★★★★
-- CSS/HTML (Bootstrap, UIkit) ★★★★☆
-- Git &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ★★★★☆
-- Docker/Docker-compose&nbsp; &nbsp; &nbsp; &nbsp; ★★★★☆
-- Linux environment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ★★★★★
-- AutoCAD &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;★★★★★
-***
+| <!-- -->    | <div style="width:500px"></div> |
+|-------------|-------------|
+| PHP (Symfony, Laravel)         | ★★★★★         |
+| GoLang                         | ★★★★☆         |
+| JavaScript (JQuery)            | ★★★☆☆         |
+| SQL                            | ★★★★☆         |
+| HTTP (REST, Nginx, Apache)    | ★★★★★         |
+| CSS/HTML (Bootstrap, UIkit)   | ★★★★☆         |
+| Git                            | ★★★★☆          |
+| Docker                         | ★★★★☆         |
+| Linux environment             | ★★★★★         |
+| AutoCAD                       | ★★★★★            |
 
 ## Professional experience
-
 *2019.06 - 2022.07* - **E-Delux GmbH (Dusseldorf, Germany) Backend developer.**
 
 Stack: **PHP-7/8(Symfony), Go, MySQL, PostgreSQL, ClickHouse, RabbitMQ, Memcached.**
@@ -63,17 +61,15 @@ Stack: **PHP-5/7(Native, Laravel), MySQL, JavaScript(JQuery), HTML/CSS(native, b
 <br/>
 
 *2000-2018* - **Technologist, foreman, engineer** at industrial enterprises in the main specialty.
-***
 
 ## Education
  * 2006-2009 - **Sumy State University** - Master of Applied Materials Science.
  * 1996-2000 - **Sumy Engineering College** - Technologist of chemical and petroleum engineering
-***
+
 ## Languages
 * **Russian**: &nbsp; &nbsp; &nbsp; native
 * **Ukrainian**:&nbsp; &nbsp;native
 * **English**: &nbsp; &nbsp; &nbsp; &nbsp; A2
-***
 
 ## Courses and certificates
 *2016.12-2017.10* **[Mind.K](https://www.mindk.com) – Modern Web Development** (offline)
