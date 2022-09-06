@@ -61,6 +61,18 @@ Stack: **PHP-5/7(Native, Laravel), MySQL, JavaScript(JQuery), HTML/CSS(native, b
 
 *2000-2018* - **Technologist, foreman, engineer** at industrial enterprises in the main specialty.
 
+## Code example
+```
+function rgb(...args) {
+  let hex = "";
+  for (let arg of args) {
+    let str = (arg <= 0) ? "00" : (arg > 255) ? "ff" : arg.toString(16);
+    hex += str.length == 1 ? "0" + str : str;
+  }
+  return hex.toUpperCase();
+}
+```
+
 ## Education
  * 2006-2009 - **Sumy State University** - Master of Applied Materials Science.
  * 1996-2000 - **Sumy Engineering College** - Technologist of chemical and petroleum engineering
