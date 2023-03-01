@@ -23,19 +23,25 @@
 
 | <!-- -->    | <!-- --> |
 |-------------|-------------|
-| PHP (Symfony, Laravel)         | ★★★★★         |
-| GoLang                         | ★★★★☆         |
-| JavaScript (JQuery)            | ★★★☆☆         |
+| PHP	 					   | ★★★★★         |
+| Symfony / Laravel / WP 	   | ★★★★☆         |
+| Go		                        | ★★★★☆         |
+| JS / TS				        | ★★★★★         |
+| ReactJS  					    | ★★★☆☆         |
+| NodeJS  					    | ★★★☆☆         |
 | SQL                            | ★★★★☆         |
-| HTTP (REST, Nginx, Apache)    | ★★★★★         |
-| CSS/HTML (Bootstrap, UIkit)   | ★★★★☆         |
+| HTTP(S) / REST                 | ★★★★★         |
+| HTML / CSS / SASS              | ★★★★★         |
+| Bootstrap / UIKit              | ★★★★☆         |
 | Git                            | ★★★★☆          |
+| Webpack                        | ★★★★☆          |
 | Docker                         | ★★★★☆         |
-| Linux environment             | ★★★★★         |
-| AutoCAD                       | ★★★★★            |
+| Linux environment          		| ★★★★★         |
+| PhotoShop/Gimp/Figma           | ★★★★★            |
+| AutoCAD                       	| ★★★★★            |
 
 ## Professional experience
-*2019.06 - 2022.07* - **E-Delux GmbH (Dusseldorf, Germany) Backend developer.**
+*2019.06 - 2022.08* - **E-Delux GmbH (Dusseldorf, Germany) Backend developer.**
 
 Stack: **PHP-7/8(Symfony), Go, MySQL, PostgreSQL, ClickHouse, RabbitMQ, Memcached.**
 - The main direction: online trading;
